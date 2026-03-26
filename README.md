@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=56B9EB&center=true&vCenter=true&width=500&lines=(in+Snowflake)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=56B9EB&center=true&vCenter=true&width=500&lines=In+Snowflake" />
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project analyzes Property24 real estate data using Snowflake, transforming raw listings into meaningful insights on pricing, location trends, and property characteristics.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Clean and structure raw property data
 * Analyze pricing across provinces and cities
@@ -30,7 +30,7 @@ This project analyzes Property24 real estate data using Snowflake, transforming 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Snowflake** – Cloud data warehouse
 * **SQL** – Data transformation & analysis
@@ -50,16 +50,11 @@ Includes:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1. Data Loading
 
 * Imported dataset into Snowflake
-
-### 2. Data Cleaning
-
-* Handled nulls and inconsistencies
-* Standardized formats
 
 ### 3. Data Analysis
 
@@ -92,7 +87,7 @@ property24_project_in_snowflake/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Load dataset into Snowflake
 2. Run SQL scripts
@@ -100,7 +95,7 @@ property24_project_in_snowflake/
 
 ---
 
-## 🌟 Future Improvements
+## Future Improvements
 
 * Build dashboards (Power BI / Looker Studio)
 * Automate pipeline
@@ -110,7 +105,7 @@ property24_project_in_snowflake/
 
 ## 💡 About Me
 
-Aspiring Data Analyst / BI Developer passionate about data-driven solutions.
+Aspiring Data Enginner / BI Developer passionate about data-driven solutions.
 
 ---
 
