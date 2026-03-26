@@ -93,6 +93,7 @@ property24_project_in_snowflake/
 2. Run SQL scripts
 3. Analyze outputs
 
+![Property24 Star Schema Diagram](star_schema/property24_star_schema.png)
 ---
 
 ## Future Improvements
