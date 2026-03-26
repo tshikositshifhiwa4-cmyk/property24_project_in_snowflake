@@ -1,0 +1,9 @@
+SELECT 
+    CITY,
+    PROVINCE,
+    PROPERTY_PRICE,
+    BEDROOMS,
+    PARKING,
+    FLOOR_SIZE,
+    MONTHLY_REPAYMENT
+FROM property24.project.housing;
