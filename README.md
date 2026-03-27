@@ -96,11 +96,11 @@ property24_project_in_snowflake/
 
 ---
 
-## Dashboard overview
-# summary page
+# Dashboard overview
+## summary page
 <img width="837" height="628" alt="page 1" src="https://github.com/user-attachments/assets/887b0dbd-d772-4feb-8c0e-6be0b66a7fc8" />
 
-# insight page 
+## insight page 
 <img width="837" height="628" alt="page 2" src="https://github.com/user-attachments/assets/b8ca0b37-5dca-4acf-b68d-8ffa9752f279" />
 ---
 
