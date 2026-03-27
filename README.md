@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/SQL-0476D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-Active-brightgreen"/>
+  <img src="https://img.shields.io/badge/Project-Active-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
