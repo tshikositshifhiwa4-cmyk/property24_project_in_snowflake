@@ -97,9 +97,8 @@ property24_project_in_snowflake/
 
 ## Future Improvements
 
-* Build dashboards (Power BI / Looker Studio)
+* Build dashboards (Looker Studio)
 * Automate pipeline
-* Expand dataset
 
 ---
 
