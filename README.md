@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/SQL-0476D9?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Project-Active-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
@@ -96,11 +96,12 @@ property24_project_in_snowflake/
 
 ---
 
-## Future Improvements
+## Dashboard overview
+# summary page
+<img width="837" height="628" alt="page 1" src="https://github.com/user-attachments/assets/887b0dbd-d772-4feb-8c0e-6be0b66a7fc8" />
 
-* Build dashboards (Looker Studio)
-* Automate pipeline
-
+# insight page 
+<img width="837" height="628" alt="page 2" src="https://github.com/user-attachments/assets/b8ca0b37-5dca-4acf-b68d-8ffa9752f279" />
 ---
 
 ## 💡 About Me
