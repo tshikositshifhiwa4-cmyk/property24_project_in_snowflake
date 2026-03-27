@@ -30,24 +30,22 @@ This project analyzes Property24 real estate data using Snowflake, transforming 
 
 ---
 
-##  Tech Stack
+## ## 📂 Dataset
 
-* **Snowflake** – Cloud data warehouse
-* **SQL** – Data transformation & analysis
-* **VS Code** – Development
-
----
-
-## 📂 Dataset
-
-Includes:
-
-* City & Province
-* Property Price
-* Bedrooms & Parking
-* Floor Size
-* Monthly Repayment
-
+| Field                       | Description                                      |
+|-----------------------------|--------------------------------------------------|
+| property_id                 | Unique identifier for each property              |
+| country                     | Country where the property is located            |
+| province                    | Province of the property                         |
+| city                        | City where the property is located               |
+| property_price              | Total price of the property                      |
+| bedrooms                    | Number of bedrooms                              |
+| bathrooms                   | Number of bathrooms                             |
+| parking                     | Number of parking spaces                         |
+| floor_size_sqm              | Property size in square meters                   |
+| monthly_repayment           | Estimated monthly bond repayment                 |
+| total_once_off_costs        | Additional upfront costs                         |
+| min_gross_monthly_income    | Minimum income required to afford the property   |
 ---
 
 ##  Project Workflow
@@ -66,7 +64,7 @@ Based on structured SQL questions
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 * Gauteng & Western Cape have higher property prices
 * Property size strongly affects price
@@ -93,7 +91,8 @@ property24_project_in_snowflake/
 2. Run SQL scripts
 3. Analyze outputs
 
-![Property24 Star Schema Diagram](star_schema/property24_star_schema.png)
+<img width="761" height="587" alt="housing star schema" src="https://github.com/user-attachments/assets/ecf62b47-b3d3-42c0-8e49-8e720fee8a87" />
+
 ---
 
 ## Future Improvements
